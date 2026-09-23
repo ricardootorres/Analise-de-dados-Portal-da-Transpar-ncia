@@ -1,0 +1,10 @@
+#Dados: ficam só na sua máquina
+*.csv
+*.zip
+*.xlsx
+*.parquet
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
