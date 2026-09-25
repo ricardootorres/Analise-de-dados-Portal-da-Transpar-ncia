@@ -5,7 +5,7 @@ Meu objetivo é saber o valor gasto em viagens por cargo.
 
 ## Fonte dos dados
 Portal da Transparência do Governo Federal, seção Viagens, ano de 2023.
-Os quatro arquivos usados são: Viagem, Passagem, Pagamento e Trecho.
+Os quatro arquivos usados são: Viagem.
 Os dados não ficam no repositório por causa do tamanho (cerca de 1,1 GB).
 Para reproduzir a análise, baixe os arquivos no Portal e salve-os em `data/raw`.
 
